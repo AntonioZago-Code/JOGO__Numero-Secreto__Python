@@ -37,7 +37,7 @@ python3 -m venv .venv
 source ./venv/bin/Script/activate
 ```
 
-Após a criação e ativação do ambiente virtual utilize o comando ``pip freeze > .\requirements.txt`` no windows e ``pip3 freeze > ./requirements.txt`` no MacOS ou Linux
+Após a criação e ativação do ambiente virtual utilize o comando ``pip install -r requirements.txt`` no windows e ``pip3 install -r requirements.txt`` no MacOS ou Linux
 
 
 ## 📒Contato
